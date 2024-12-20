@@ -23,3 +23,5 @@ The package can be loaded and run in Python with below example. It is recommende
 import scTCIpy as stpy
 stpy.tl.transition_index(adata)
 ```
+
+Please refer to [test_nb.ipynb](./test_nb.ipynb) for example use.
